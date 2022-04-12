@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AOne11</string>
+    <string name="ToSecondScreen">To Second Screen</string>
+    <string name="BackToHome">Back To Home</string>
+    <string name="ToThirdScreen">To Third Screen</string>
+    <string name="BackToSecondScreen">Back To Second Screen</string>
+</resources>
